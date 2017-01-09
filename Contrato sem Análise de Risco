@@ -232,20 +232,11 @@ Número de parcelas	Recebimento em 30 dias	Recebimento em 14 dias	Recebimento em
 
 9.	ANÁLISE DE RISCO
 
-9.1.	O MOIP fará a apuração de eventuais fraudes nas TRANSAÇÕES processadas em favor do CLIENTE através de sistema de análise de risco próprio e de PARCEIROS.
+9.1.	O MOIP não fará a apuração de eventuais fraudes nas TRANSAÇÕES processadas em favor do CLIENTE, já que este solicitou a aprovação automática de todas as TRANSAÇÕES, excluindo qualquer responsabilidade que o MOIP possa ter por perdas decorrentes de CHARGEBACK, CANCELAMENTO, estorno, RECLAMAÇÃO, entre outros problemas relacionados à falta de análise de risco do COMPRADOR.
 
-9.2.	A análise de um eventual risco da TRANSAÇÃO é feita com base em padrões históricos e conferência dos dados cadastrais, podendo resultar numa probabilidade de que determinada TRANSAÇÃO seja fraudulenta. O modelo estatístico utiliza os seguintes dados como base:
-(i)	Dados cadastrais do COMPRADOR e/ou,
-(ii)	Dados do dispositivo do COMPRADOR utilizados para realizar a TRANSAÇÃO.
-(iii)	Tipo de negócio do CLIENTE ou produtos ofertados ao MERCADO.
+9.2.	O MOIP não garante que as TRANSAÇÕES efetuadas pelos COMPRADORES serão aprovadas pelos demais integrantes da REDE DE PAGAMENTO.
 
-9.3.	Feita a avaliação de risco transacional, o MOIP aprovará automaticamente as TRANSAÇÕES classificadas como “baixo risco”. As TRANSAÇÕES identificadas como “alto risco” serão analisadas manualmente pelo MOIP. Nessa revisão manual, o MOIP poderá contatar o COMPRADOR, em nome do CLIENTE, para conferência dos DADOS E INFORMAÇÕES. Após essa segunda etapa de análise de risco, a TRANSAÇÃO poderá ser aprovada ou não, segundo critérios estabelecidos pelo MOIP.
-
-9.4.	O MOIP e a REDE DE PAGAMENTO farão a análise de risco transacional em favor do CLIENTE. No entanto, o CLIENTE está ciente e concorda que eventuais fraudes são inerentes ao risco de seu negócio e, portanto, deverão ser monetariamente suportadas por ele. Como benefício, e desde que preenchidos os critérios específicos, o MOIP reembolsará o CLIENTE de CHARGEBACKS identificados como fraudes, dentro dos limites e conforme condições estabelecidas no “Programa Venda Protegida”.
-9.4.1.	O CLIENTE declara que conhece e concorda com os parâmetros adotados pela análise de risco do MOIP, sendo que o cancelamento efetuado pelo próprio CLIENTE ainda o obriga ao pagamento das TARIFAS DE REMUNERAÇÃO pelo serviço prestado.
-
-9.5.	O MOIP poderá bloquear o acesso à CONTA MOIP, ou o saque dos recursos disponíveis, caso haja suspeita de fraude pelo CLIENTE e/ou identifique qualquer risco operacional em decorrência de sua conduta.
-9.5.1.	Na hipótese prevista no caput, o MOIP estipulará um cronograma de saque parcial de até 180 dias dos VALORES LÍQUIDOS disponíveis na CONTA MOIP.
+9.3.	O MOIP poderá bloquear o acesso à CONTA MOIP, caso haja suspeita de fraude pelo CLIENTE e/ou identifique qualquer risco operacional em decorrência de sua conduta.
 
 
 10.	DAS RESTRIÇÕES AO CLIENTE
@@ -272,7 +263,7 @@ Número de parcelas	Recebimento em 30 dias	Recebimento em 14 dias	Recebimento em
 
 11.	DO PROCESSO DE CHARGEBACK OU CONTESTAÇÃO DE DÉBITO EFETUADO POR INTERMÉDIO DE CARTÃO
 
-11.1.	O CHARGEBACK é um direito do COMPRADOR, garantido pelas regras das BANDEIRAS e, salvo as exceções presentes no ANEXO 'Programa Venda Protegida”, será suportado pelo CLIENTE. O processo de CHARGEBACK é efetivado através do débito do valor da TRANSAÇÃO na CONTA MOIP do CLIENTE, e poderá ser requisitado pelo COMPRADOR em até 180 (cento e oitenta) dias, contados a partir do pagamento da última parcela da TRANSAÇÃO. 
+11.1.	O CHARGEBACK é um direito do COMPRADOR, garantido pelas regras das BANDEIRAS e será suportado pelo CLIENTE. O processo de CHARGEBACK é efetivado através do débito do valor da TRANSAÇÃO na CONTA MOIP do CLIENTE, e poderá ser requisitado pelo COMPRADOR em até 180 (cento e oitenta) dias, contados a partir do pagamento da última parcela da TRANSAÇÃO. 
 
 11.2.	O MOIP, mediante juízo próprio de conveniência e oportunidade e os usos e costumes do mercado, poderá denunciar este contrato de pleno direito, o finalizando sem necessidade de notificação prévia, caso o CLIENTE:
 11.2.1.	Possua um INDICADOR DE RISCO geral maior ou igual a 5% (cinco por cento)
@@ -485,7 +476,7 @@ CPF:
 2ª. ___________________________
 Nome:	
 RG:	
-CPF:  
+CPF: 
  
 
 ANEXO I – DEFINIÇÕES
@@ -551,43 +542,8 @@ VALOR BRUTO: valor total da TRANSAÇÃO realizada pelo CLIENTE antes da deduçã
 VALOR LÍQUIDO: valor a ser depositado na CONTA MOIP de titularidade do CLIENTE, descontadas todas as tarifas previstas contratualmente pela prestação dos serviços, bem como tributos e outros valores eventualmente devidos.
 
 
-ANEXO II – PROGRAMA DE VENDA PROTEGIDA
 
-
-1.	No Programa de Venda Protegida, o CLIENTE não será debitado quando um CHARGEBACK for comprovadamente definido como fraude.
-1.1.	A Fraude é caracterizada em TRANSAÇÕES contestadas sob a alegação de não realização e/ou não autorização da compra efetuada em razão de roubo/furto do CARTÃO, ou ainda da utilização dos dados do cartão do COMPRADOR por terceiros não autorizados.
-1.2.	As TRANSAÇÕES e/ou CLIENTES que não participarem do “Programa de Venda Protegida”, ou que não cumpram todos os requisitos exigidos neste Anexo, não podem exigir o cumprimento do disposto abaixo.
-
-2.	Para que o CLIENTE participe do Programa de Venda Protegida oferecido pelo MOIP, deverá atender a todos os quesitos listados abaixo:
-(i)	Comercializar produtos tangíveis (físicos), mantidos e entregues a partir de estoque local;
-(ii)	O prazo de entrega do produto deve atender rigorosamente o que foi estipulado no SITE do CLIENTE;
-(iii)	Seu INDICADOR DE RISCO não pode ser superior a 1% (um por cento). Será considerado neste caso, exclusivamente casos oriundos de desacordos comerciais comprovados; e
-(iv)	Cumprir integralmente o Procedimento previsto no presente Anexo e seus termos e condições.
-2.1.	O Programa de Venda Protegida será coberto pelo MOIP até o limite correspondente a 0,5% (zero, vírgula cinco por cento) sobre o valor de todas as TRANSAÇÕES nos últimos 12 (doze) meses.
-
-3.	Para que o cliente utilize o Programa de Venda Protegida, deverá encaminhar ao MOIP, no prazo de 10 (dez) dias, a seguinte documentação:
-3.1.	Para produtos com valor menor que R$ 500,00 (quinhentos reais):
-(i)	Código de Rastreio que comprove o endereço de entrega indicado pelo COMPRADOR, conjuntamente com o cadastro do COMPRADOR no site do CLIENTE e detalhes dos objetos comprados; e
-(ii)	 Nome completo e legível, assinatura, número de documento (RG e CPF) e endereço do COMPRADOR (contendo a cidade, Estado e Código de Endereçamento Postal de destino); e
-(iii)	A Nota Fiscal/invoice do produto vendido/entregue.
-3.2.	Para produtos com valor igual ou acima de R$ 500,00 (quinhentos reais):
-(i)	Cópia de comprovante de entrega válido (declaração da transportadora, Aviso de Recebimento dos Correios...), com a assinatura do COMPRADOR, ou quem lhe faça às vezes, endereço e data de entrega, ou Pedido de Informação (PI) emitido pelos Correios do Brasil detalhando a entrega do PRODUTO enviado ao COMPRADOR; e
-(ii)	Nome completo e legível, assinatura, número de documento (RG e CPF) e endereço do COMPRADOR (contendo a cidade, Estado e Código de Endereçamento Postal de destino); e
-(iii)	A Nota Fiscal/invoice do produto vendido/entregue.
-3.3.	Se necessário o envio de documentação complementar além da prevista acima, o CLIENTE deverá providenciá-la, mediante prévio aviso enviado pelo MOIP.
-3.3.1.	O requerimento para complementar os Documentos não interrompe ou suspende o prazo estabelecido na cláusula 3 deste Anexo. 
-3.4.	O endereço de entrega deve corresponder ao constante da TRANSAÇÃO aprovada.
-
-4.	O CLIENTE não terá direito ao Programa de Venda Protegida nos seguintes casos:
-(i)	Quando faltar uma política clara referente à devolução, prazo de entrega, e características do produto por parte do CLIENTE, em seu SITE;
-(ii)	CHARGEBACKS decorrentes de desacordo comercial, como: mercadoria não entregue, mercadoria com defeito, mercadoria contrafeita, entrega fora do prazo;
-(iii)	CHARGEBACKS por produtos diferentes daqueles descritos nos documentos de envio e de recebimento dos produtos;
-(iv)	CHARGEBACKS por produtos que tenham sido entregues ao COMPRADOR na loja física do CLIENTE; e
-(v)	Casos comprovados de auto fraude;
-(vi)	Se a sua integração com os PRODUTOS e SERVIÇOS MOIP não contemplar a obtenção de todas as informações, obrigatórias e opcionais, da área Pedidos.
-
-
-ANEXO III – MARKETPLACE POR AGENCIAMENTO
+ANEXO II – MARKETPLACE POR AGENCIAMENTO
 
 
 Este Anexo é aplicável somente aos CLIENTES que atuam como MARKETPLACE através da cobrança de Taxa de Agência.
@@ -620,7 +576,7 @@ TRANSAÇÕES: Todas e quaisquer aquisições de bens e/ou serviços realizadas p
 4.3.	Em caso de reembolsos de TRANSAÇÕES previamente autorizadas ou concluídas, somente o MARKETPLACE poderá determinar e efetuar o reembolso ao COMPRADOR.
 4.3.1.	Para que o reembolso seja realizado, o MARKETPLACE e/ou LOJA VIRTUAL deverão possuir saldo suficiente para realização da TRANSAÇÃO.
  
-ANEXO IV – MARKETPLACE POR COMISSIONAMENTO
+ANEXO III – MARKETPLACE POR COMISSIONAMENTO
 
 
 Este Anexo é aplicável somente aos CLIENTES que atuam como MARKETPLACE através da cobrança de comissão.
@@ -654,7 +610,7 @@ TRANSAÇÕES: Todas e quaisquer aquisições de bens e/ou serviços realizadas p
 4.3.1.	Para que o reembolso seja realizado, o MARKETPLACE deverá possuir saldo suficiente para realização da TRANSAÇÃO.
 
  
-ANEXO V - CROWDFUNDING
+ANEXO IV - CROWDFUNDING
 
 Este Anexo é aplicável somente aos CLIENTES que atuam como CROWDFUNDING. 
 
@@ -679,5 +635,3 @@ RESPONSÁVEL PELO PROJETO: Pessoa física ou jurídica que pertença ao sistema 
 
 3.3.	A realização do PROJETO é responsabilidade do RESPONSÁVEL PELO PROJETO, que devem obter as licenças e autorizações necessárias, bem como responder por seu impacto fiscal, regulatório e eventuais prejuízos ao INCENTIVADOR e/ou terceiros.
 3.3.1.	O CROWDFUNDING e o RESPONSÁVEL DO PROJETO declaram e garantem que os PROJETOS serão criados e implementados nos termos da legislação aplicável, de modo que o MOIP será responsável apenas pela prestação de serviços de intermediação da TRANSAÇÃO realizada pelo INCENTIVADOR, ficando isento de qualquer responsabilidade relativa à relação entre INCENTIVADOR e CROWDFUNDING/RESPONSÁVEL DO PROJETO.
-
-
